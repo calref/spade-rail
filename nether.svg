@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r"
+   sodipodi:docname="nether.svg"
+   inkscape:export-filename="E:\Profile\nether.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <title
+     id="title9557">Spade Nether Rail Map</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient9069">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9071" />
+      <stop
+         id="stop9077"
+         offset="0.88333333"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop9073" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         id="g3979"
+         transform="scale(-1.2)">
+        <path
+           id="path3981"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3983"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3985"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3987"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3989"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3991"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path4010"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3946"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3964"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9069"
+       id="linearGradient9075"
+       x1="395.94193"
+       y1="427.36708"
+       x2="507.44514"
+       y2="427.36708"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       id="filter9420"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9422"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9424"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9426"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9428"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9430"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9432"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9434"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9436"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9438"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9440"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9442"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9444"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9446"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9448"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9450"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9452"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9454"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9456"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9458"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9460"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9462"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9464"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9466"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9468"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9470"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9472"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9474"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9476"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9478"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9480"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9482"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9484"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9486"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9488"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9490"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9492"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9494"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9496"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9498"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9500"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9502"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter9516"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood9518"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite9520"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9522"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset9524"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite9526"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="342.67923"
+     inkscape:cy="258.64776"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-left="0"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:snap-object-midpoints="true">
+    <sodipodi:guide
+       position="0,3.7092285e-006"
+       orientation="0,765"
+       id="guide4803" />
+    <sodipodi:guide
+       position="765,3.7092285e-006"
+       orientation="-990,0"
+       id="guide4805" />
+    <sodipodi:guide
+       position="765,990"
+       orientation="0,-765"
+       id="guide4807" />
+    <sodipodi:guide
+       position="0,990"
+       orientation="990,0"
+       id="guide4809" />
+    <sodipodi:guide
+       position="27,26.999821"
+       orientation="0,711"
+       id="guide4815" />
+    <sodipodi:guide
+       position="738,26.999821"
+       orientation="-936,0"
+       id="guide4817" />
+    <sodipodi:guide
+       position="738,962.99982"
+       orientation="0,-711"
+       id="guide4819" />
+    <sodipodi:guide
+       position="27,962.99982"
+       orientation="936,0"
+       id="guide4821" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="71.329397,918.08977"
+       id="guide4953" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid8336"
+       empspacing="20"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Spade Nether Rail Map</dc:title>
+        <cc:license
+           rdf:resource="LICENSE" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Icons (c) SPHAX http://bdcraft.net</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Calamity Refuge</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sylae Corell</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362004)">
+    <g
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="SRSlogo"
+       transform="translate(-145.3259,-253.23402)"
+       inkscape:label="#text2985">
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
+         x="110.49999"
+         y="54.000046"
+         id="text9547"
+         sodipodi:linespacing="125%"
+         transform="translate(145.3259,315.59602)"><tspan
+           sodipodi:role="line"
+           id="tspan9549"
+           x="110.49999"
+           y="54.000046"
+           style="font-family:Gotham Book;-inkscape-font-specification:Gotham Book" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
+         x="176.3259"
+         y="383.50626"
+         id="text9551"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9553"
+           x="176.3259"
+           y="383.50626"
+           style="font-size:24px;text-align:start;text-anchor:start;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold">SPADE RAIL SYSTEMS</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 738,71.91023 -711,0"
+         id="path9555"
+         inkscape:connector-curvature="0"
+         transform="translate(145.3259,315.59602)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:'Gotham Medium,'"
+       x="738"
+       y="116.64895"
+       id="text4827"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4829"
+         x="738"
+         y="116.64895">Nether Rail</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="M 146.96044,851.86173 237.04715,741.49635"
+       id="path8959"
+       inkscape:connector-curvature="0"
+       transform="translate(0,62.362004)" />
+    <rect
+       style="fill:#e9e9e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter9492)"
+       id="rect4843"
+       width="186.67619"
+       height="229.1026"
+       x="530.33008"
+       y="525.5401" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect4835"
+       width="711"
+       height="936.00134"
+       x="27"
+       y="27.000179"
+       transform="translate(0,62.362004)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4839"
+       y="129.12688"
+       x="734.875"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Book;-inkscape-font-specification:Gotham Book"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Gotham Medium;-inkscape-font-specification:'Gotham Medium,'"
+         y="129.12688"
+         x="734.875"
+         id="tspan4841"
+         sodipodi:role="line">Fast and secure service to all of Spade's features</tspan></text>
+    <rect
+       y="525.5401"
+       x="530.33008"
+       height="22.741383"
+       width="186.67619"
+       id="rect4845"
+       style="fill:#000000;fill-opacity:0.08465606;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4847"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Gotham Medium"
+       transform="translate(0,-193.638)"><flowRegion
+         id="flowRegion4849"><rect
+           id="rect4851"
+           width="187"
+           height="28.75"
+           x="530.25"
+           y="719" /></flowRegion><flowPara
+         id="flowPara4853"
+         style="font-size:18px;font-style:normal;font-weight:normal;-inkscape-font-specification:'Gotham Medium,'">Legend</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 538.10826,591.59127 0,39.37313"
+       id="path4855"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4857"
+       d="m 538.10826,555.9457 0,16.61701"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4859"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Gotham Medium"
+       transform="translate(0,-193.638)"><flowRegion
+         id="flowRegion4861"><rect
+           id="rect4863"
+           width="166.8772"
+           height="194.10081"
+           x="544.47223"
+           y="749.93726"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4865">Planned / Construction</flowPara><flowPara
+         id="flowPara5259">Single Line</flowPara><flowPara
+         id="flowPara5261">Full Line</flowPara><flowPara
+         id="flowPara5267">Station / Stop</flowPara><flowPara
+         id="flowPara4261">Junction</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-mid:url(#Tail)"
+       d="m 538.10826,572.12077 0,20.41771"
+       id="path4867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(0,-195.763)" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,199.78941,118.30232)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       id="g5353"
+       transform="translate(0,-256)"
+       style="filter:url(#filter9516)">
+      <rect
+         y="900.17395"
+         x="536.64417"
+         height="51.75"
+         width="162.5"
+         id="rect4267"
+         style="fill:#ffffff;stroke:#000000;stroke-opacity:1;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4269"
+         y="911.26233"
+         x="552.48218"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           y="911.26233"
+           x="552.48218"
+           id="tspan4271"
+           sodipodi:role="line">Station Name</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m 536.86292,914.92393 162.40625,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         y="900.96423"
+         x="538.28503"
+         id="image5161"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5164"
+         x="684.91003"
+         y="916.25592" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         y="916.25592"
+         x="669.16003"
+         id="image5172"
+         width="12.8"
+         height="12.8" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5178"
+         y="928.112"
+         x="558.83917"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           y="928.112"
+           x="558.83917"
+           id="tspan5180"
+           sodipodi:role="line">Community Feature</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5182"
+           y="938.112"
+           x="558.83917"
+           sodipodi:role="line">Player Home</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5188"
+           y="948.112"
+           x="558.83917"
+           sodipodi:role="line">Village</tspan></text>
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5190"
+         d="m 558.5,863.375 -9.875,0 -3.75,-16.5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5192"
+         d="m 611.75,873.875 57.25,0 4,-10"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5194"
+         d="m 587.18747,947.29952 99.25,0 5.875,-20.875"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5240"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Gotham Medium;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;text-anchor:middle;text-align:center"><flowRegion
+         id="flowRegion5242"><rect
+           id="rect5244"
+           width="129.93088"
+           height="63.462833"
+           x="234.93623"
+           y="725.54205"
+           style="font-style:normal;-inkscape-font-specification:Sans;font-size:8px" /></flowRegion><flowPara
+         id="flowPara5246" /></flowRoot>    <g
+       id="g5318"
+       transform="translate(0,27.223611)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="713.97449"
+       y="751.99103"
+       id="text5375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5377"
+         x="713.97449"
+         y="751.99103">Map Revised 22 Sep 2014</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="538.28503"
+       y="704.13666"
+       id="text3112"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3114"
+         x="538.28503"
+         y="704.13666"
+         style="font-size:8px">Station Identifier</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8340"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,437.74779,-880.04755)" />
+    <path
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,347.66108,-769.68219)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8342"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,507.55584,-1190.865)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8346"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8350"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,478.30508,-479.14342)" />
+    <path
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,588.67044,-389.05671)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8352"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8354"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,277.853,-458.86476)" />
+    <g
+       transform="translate(239.03856,147.6869)"
+       id="g5331"
+       style="filter:url(#filter9480)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204"
+           x="239.48692"
+           y="782.92249">Iffy / Sylae</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212"
+         x="366.16479"
+         y="787.91608" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252" /></flowRegion><flowPara
+           id="flowPara5254">Combined portal station for Iffy and Sylae</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="473.20999"
+       y="972.42297"
+       id="text3104"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106"
+         x="473.20999"
+         y="972.42297"
+         style="font-size:8px">Spade/Nether/Iffsy</tspan></text>
+    <g
+       transform="translate(107.53856,57.686904)"
+       id="g5331-2"
+       style="filter:url(#filter9468)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200-7"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204-9"
+           x="239.48692"
+           y="782.92249">Nikki</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210-0"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212-6"
+         x="366.16479"
+         y="787.91608" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250-2"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252-5" /></flowRegion><flowPara
+           id="flowPara5254-5">Portal station for Nikki. Currently under construction.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="341.70999"
+       y="882.42297"
+       id="text3104-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-5"
+         x="341.70999"
+         y="882.42297"
+         style="font-size:8px">Spade/Nether/Nikki</tspan></text>
+    <g
+       transform="translate(-95.96142,156.6869)"
+       id="g5331-7"
+       style="filter:url(#filter9456)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200-3"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204-1"
+           x="239.48692"
+           y="782.92249">Ephesos</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210-7"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212-5"
+         x="366.16479"
+         y="787.91608" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248-52"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250-1"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252-4" /></flowRegion><flowPara
+           id="flowPara5254-1">Portal station for Ephesos. Currently under construction.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="138.20999"
+       y="981.42297"
+       id="text3104-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-7"
+         x="138.20999"
+         y="981.42297"
+         style="font-size:8px">Spade/Nether/Ephesos</tspan></text>
+    <g
+       transform="translate(-0.961422,-162.31309)"
+       id="g5331-9"
+       style="filter:url(#filter9444)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200-6"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202-70"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204-6"
+           x="239.48692"
+           y="782.92249">   Spawn</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5208-9"
+         x="235.28978"
+         y="772.62439" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210-3"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212-0"
+         x="366.16479"
+         y="787.91608" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250-25"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252-1" /></flowRegion><flowPara
+           id="flowPara5254-8">Portal access to the overworld spawn point, as well as several player homes.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="233.20999"
+       y="662.42297"
+       id="text3104-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-2"
+         x="233.20999"
+         y="662.42297"
+         style="font-size:8px">Spade/Nether/Spawn</tspan></text>
+    <g
+       transform="translate(86.038572,-274.31308)"
+       id="g5331-3"
+       style="filter:url(#filter9432)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200-69"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204-91"
+           x="239.48692"
+           y="782.92249">   Undermine</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206-15"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5208-92"
+         x="235.28978"
+         y="772.62439" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210-39"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212-62"
+         x="366.16479"
+         y="787.91608"
+         style="opacity:0.25" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250-7"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252-9" /></flowRegion><flowPara
+           id="flowPara5254-2">Haven't been here yet, but it sounds like some sort of mine...</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="320.20999"
+       y="550.42303"
+       id="text3104-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-72"
+         x="320.20999"
+         y="550.42303"
+         style="font-size:8px">Spade/Nether/Undermine</tspan></text>
+    <g
+       transform="translate(-38.961425,-584.31306)"
+       id="g5331-75"
+       style="filter:url(#filter9420)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1;fill-opacity:1"
+         id="rect5200-35"
+         width="162.5"
+         height="45.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204-2"
+           x="239.48692"
+           y="782.92249">Starfall</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206-17"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210-6"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212-01"
+         x="366.16479"
+         y="787.91608" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248-19"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250-24"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252-2" /></flowRegion><flowPara
+           id="flowPara5254-7">Portal station for Arancaytar.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="195.20999"
+       y="240.42302"
+       id="text3104-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-4"
+         x="195.20999"
+         y="240.42302"
+         style="font-size:8px">Spade/Nether/Arancaytar</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 237.04715,741.49635 126.68182,651.40967 487.02864,209.94819 376.66328,119.86149"
+       id="path8147"
+       inkscape:connector-curvature="0"
+       transform="translate(0,62.362004)" />
+    <path
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-792.66832)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8338-0"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8340-2"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-652.66832)" />
+    <path
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-512.66832)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8342-4"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,430.96791,-932.66832)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8346-9"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,710.96791,-372.66832)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8348-9"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8350-2"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,850.96791,-372.66832)" />
+    <path
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,990.96791,-372.66832)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path8352-7"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path8354-1"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,710.96791,-232.66832)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6,2;stroke-dashoffset:0"
+       d="M 237.04715,741.49635 457.77788,921.66978"
+       id="path9047"
+       inkscape:connector-curvature="0"
+       transform="translate(0,62.362004)" />
+    <path
+       style="fill:none;stroke:url(#linearGradient9075);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 396.94193,382.6756 109.50321,89.38297"
+       id="path9047-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,58.052007,-123.39955)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-3"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,-102.19234,297.99903)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-2"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="247.75792"
+       y="801.414"
+       id="text3104-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-5-8"
+         x="247.75792"
+         y="801.414"
+         style="font-size:8px">Green Junction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="408.2579"
+       y="384.91403"
+       id="text3104-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106-5-7"
+         x="408.2579"
+         y="384.91403"
+         style="font-size:8px">Red Junction</tspan></text>
+  </g>
+</svg>
