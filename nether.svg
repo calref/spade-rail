@@ -386,7 +386,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0000001"
      inkscape:cx="342.67923"
@@ -631,11 +631,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="translate(0,-195.763)" />
     <path
        transform="matrix(0.62884086,0,0,0.62884086,199.78941,118.30232)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -672,29 +672,29 @@
          d="m 536.86292,914.92393 162.40625,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <image
-         sodipodi:absref="images/diamond_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         y="900.96423"
-         x="538.28503"
-         id="image5161"
-         width="12.8"
-         height="12.8" />
-      <image
-         sodipodi:absref="images/emerald_block.png"
-         xlink:href="images/emerald_block.png"
          height="12.8"
          width="12.8"
-         id="image5164"
-         x="684.91003"
-         y="916.25592" />
+         id="image5161"
+         x="538.28503"
+         y="900.96423" />
       <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
          y="916.25592"
-         x="669.16003"
-         id="image5172"
+         x="684.91003"
+         id="image5164"
          width="12.8"
          height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5172"
+         x="669.16003"
+         y="916.25592" />
       <text
          sodipodi:linespacing="125%"
          id="text5178"
@@ -780,11 +780,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,437.74779,-880.04755)" />
     <path
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,347.66108,-769.68219)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -794,7 +794,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,507.55584,-1190.865)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -810,11 +810,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,478.30508,-479.14342)" />
     <path
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,588.67044,-389.05671)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -830,7 +830,7 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.1036536,0.90086707,-0.90086707,1.1036536,277.853,-458.86476)" />
     <g
        transform="translate(239.03856,147.6869)"
@@ -861,22 +861,22 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
-      <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212"
-         x="366.16479"
+         x="381.91479"
          y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="787.91608"
+         x="366.16479"
+         id="image5212"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -931,22 +931,22 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210-0"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
-      <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212-6"
-         x="366.16479"
+         x="381.91479"
          y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="787.91608"
+         x="366.16479"
+         id="image5212-6"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1001,22 +1001,22 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210-7"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
-      <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212-5"
-         x="366.16479"
+         x="381.91479"
          y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="787.91608"
+         x="366.16479"
+         id="image5212-5"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1071,30 +1071,30 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/diamond_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         height="12.8"
-         width="12.8"
-         id="image5208-9"
+         y="772.62439"
          x="235.28978"
-         y="772.62439" />
+         id="image5208-9"
+         width="12.8"
+         height="12.8" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210-3"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
-      <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212-0"
-         x="366.16479"
+         x="381.91479"
          y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="787.91608"
+         x="366.16479"
+         id="image5212-0"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1149,31 +1149,31 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/diamond_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         height="12.8"
-         width="12.8"
-         id="image5208-92"
+         y="772.62439"
          x="235.28978"
-         y="772.62439" />
+         id="image5208-92"
+         width="12.8"
+         height="12.8" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210-39"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
+         x="381.91479"
+         y="787.91608" />
       <image
-         sodipodi:absref="images/pumpkin_face_on.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212-62"
-         x="366.16479"
+         style="opacity:0.25"
          y="787.91608"
-         style="opacity:0.25" />
+         x="366.16479"
+         id="image5212-62"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1228,22 +1228,22 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <image
-         sodipodi:absref="images/emerald_block.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         y="787.91608"
-         x="381.91479"
+         style="opacity:0.25"
+         height="12.8"
+         width="12.8"
          id="image5210-6"
-         width="12.8"
-         height="12.8"
-         style="opacity:0.25" />
-      <image
-         sodipodi:absref="images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
-         height="12.8"
-         width="12.8"
-         id="image5212-01"
-         x="366.16479"
+         x="381.91479"
          y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="787.91608"
+         x="366.16479"
+         id="image5212-01"
+         width="12.8"
+         height="12.8" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1277,7 +1277,7 @@
        transform="translate(0,62.362004)" />
     <path
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-792.66832)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1293,11 +1293,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-652.66832)" />
     <path
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,570.96791,-512.66832)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1307,7 +1307,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,430.96791,-932.66832)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1317,7 +1317,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,710.96791,-372.66832)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1333,11 +1333,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,850.96791,-372.66832)" />
     <path
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,990.96791,-372.66832)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1353,7 +1353,7 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="matrix(1.4246422,-0.00269465,0.00269465,1.4246422,710.96791,-232.66832)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6,2;stroke-dashoffset:0"
@@ -1369,7 +1369,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="matrix(0.62884086,0,0,0.62884086,58.052007,-123.39955)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -1379,7 +1379,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.62884086,0,0,0.62884086,-102.19234,297.99903)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
