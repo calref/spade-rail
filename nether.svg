@@ -388,9 +388,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="342.67923"
-     inkscape:cy="258.64776"
+     inkscape:zoom="0.70710685"
+     inkscape:cx="180.28492"
+     inkscape:cy="412.28115"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -465,7 +465,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Spade Nether Rail Map</dc:title>
         <cc:license
-           rdf:resource="LICENSE" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
         <dc:rights>
           <cc:Agent>
             <dc:title>Icons (c) SPHAX http://bdcraft.net</dc:title>
@@ -482,6 +482,23 @@
           </cc:Agent>
         </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -674,27 +691,27 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         height="12.8"
-         width="12.8"
-         id="image5161"
+         y="900.96423"
          x="538.28503"
-         y="900.96423" />
-      <image
-         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
-         xlink:href="images/emerald_block.png"
-         y="916.25592"
-         x="684.91003"
-         id="image5164"
+         id="image5161"
          width="12.8"
          height="12.8" />
       <image
-         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
-         xlink:href="images/pumpkin_face_on.png"
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
          height="12.8"
          width="12.8"
-         id="image5172"
-         x="669.16003"
+         id="image5164"
+         x="684.91003"
          y="916.25592" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="916.25592"
+         x="669.16003"
+         id="image5172"
+         width="12.8"
+         height="12.8" />
       <text
          sodipodi:linespacing="125%"
          id="text5178"
@@ -863,20 +880,20 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         y="787.91608"
-         x="366.16479"
-         id="image5212"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212"
+         x="366.16479"
+         y="787.91608" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -933,20 +950,20 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210-0"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210-0"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         y="787.91608"
-         x="366.16479"
-         id="image5212-6"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212-6"
+         x="366.16479"
+         y="787.91608" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1003,20 +1020,20 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210-7"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210-7"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         y="787.91608"
-         x="366.16479"
-         id="image5212-5"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212-5"
+         x="366.16479"
+         y="787.91608" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1073,28 +1090,28 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         y="772.62439"
-         x="235.28978"
-         id="image5208-9"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5208-9"
+         x="235.28978"
+         y="772.62439" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210-3"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210-3"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         y="787.91608"
-         x="366.16479"
-         id="image5212-0"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212-0"
+         x="366.16479"
+         y="787.91608" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1151,29 +1168,29 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/diamond_block.png"
          xlink:href="images/diamond_block.png"
-         y="772.62439"
-         x="235.28978"
-         id="image5208-92"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5208-92"
+         x="235.28978"
+         y="772.62439" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210-39"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210-39"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         style="opacity:0.25"
-         y="787.91608"
-         x="366.16479"
-         id="image5212-62"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212-62"
+         x="366.16479"
+         y="787.91608"
+         style="opacity:0.25" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
@@ -1230,20 +1247,20 @@
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/emerald_block.png"
          xlink:href="images/emerald_block.png"
-         style="opacity:0.25"
-         height="12.8"
-         width="12.8"
-         id="image5210-6"
+         y="787.91608"
          x="381.91479"
-         y="787.91608" />
+         id="image5210-6"
+         width="12.8"
+         height="12.8"
+         style="opacity:0.25" />
       <image
          sodipodi:absref="C:\Users\Sylae\Documents\GitHub\spade-rail\images/pumpkin_face_on.png"
          xlink:href="images/pumpkin_face_on.png"
-         y="787.91608"
-         x="366.16479"
-         id="image5212-01"
+         height="12.8"
          width="12.8"
-         height="12.8" />
+         id="image5212-01"
+         x="366.16479"
+         y="787.91608" />
       <flowRoot
          transform="translate(0,62.362004)"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
