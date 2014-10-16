@@ -481,6 +481,12 @@
             <dc:title>Sylae Corell</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>https://github.com/calref/spade-rail/graphs/contributors</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:language>en-US</dc:language>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
